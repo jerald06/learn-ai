@@ -1,0 +1,7 @@
+Our company name is EasyTopup.
+
+EasyTopup provides mobile recharge services.
+
+Admin panel allows managing users and stores.
+
+The backend is built using Go language.
